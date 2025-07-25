@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sacchi0504&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@24dd44f6-2801-4086-8c03-a9dc06f52e1c">
-    <img src="https://wakatime.com/badge/user/24dd44f6-2801-4086-8c03-a9dc06f52e1c.svg" alt="wakatime stats" />
-  </a>
-</p>
+
 
 ---
 
